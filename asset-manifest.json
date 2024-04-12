@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/market-assignment/static/css/main.23a72057.css",
+    "main.js": "/market-assignment/static/js/main.1430182b.js",
+    "static/js/453.d4993059.chunk.js": "/market-assignment/static/js/453.d4993059.chunk.js",
+    "index.html": "/market-assignment/index.html",
+    "main.23a72057.css.map": "/market-assignment/static/css/main.23a72057.css.map",
+    "main.1430182b.js.map": "/market-assignment/static/js/main.1430182b.js.map",
+    "453.d4993059.chunk.js.map": "/market-assignment/static/js/453.d4993059.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a72057.css",
+    "static/js/main.1430182b.js"
+  ]
+}
