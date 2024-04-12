@@ -1,0 +1,52 @@
+.title-container {
+    display: flex;
+    align-items: center;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.title {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.nav-items-list {
+    display: flex;
+}
+
+.link-item {
+    list-style-type: none;
+    font-family: Roboto Mono;
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 18.46px;
+    text-align: left;
+    color: black;
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+.button {
+    width: 100px;
+    height: 35px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background-color: black;
+    color: white;
+}
+
+.login-image {
+    width: 24px;
+    height: 22.23px;
+    top: 17.6px;
+    left: 1334px;
+    gap: 0px;
+    opacity: 0px;
+    animation-duration: 0ms;
+}
