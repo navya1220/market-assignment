@@ -1,0 +1,58 @@
+.classes-card {
+    list-style-type: none;
+    width: 1156px;
+        height: 250px;
+        top: 182px;
+        left: 102px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        border: 1px solid #D4D4D4;
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 20px;
+}
+.classes-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title-name {
+    font-family: Roboto Mono;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 26.38px;
+        text-align: left;
+        color: black;
+}
+.title-description {
+    font-family: Roboto Mono;
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 22.42px;
+        text-align: left;
+        color: black;
+        width: 672px;
+            height: 132px;
+            top: 233px;
+            left: 682px;
+            gap: 0px;
+            opacity: 0px;
+}
+.parctice-button {
+    width: 87px;
+        height: 41px;
+        top: 430px;
+        left: 682px;
+        gap: 0px;
+        opacity: 0px;
+        background-color: black;
+        color: white;
+}
+.classes-card-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
