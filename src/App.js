@@ -9,7 +9,6 @@ import './App.css'
 const App = () => (
     <div className='Total-page'>
         <Header/>
-        <div className='app-body'>
         <Switch>
             <Route exact path="/" component={Home}/>
             <Route exact path="/classes" component={Classes}/>
@@ -17,7 +16,6 @@ const App = () => (
             <Route exact path="/about" component={About}/>
             <Route exact path="/login" component={Login}/>
         </Switch>
-        </div>
     </div>
     )
 
