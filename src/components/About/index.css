@@ -1,0 +1,37 @@
+.about-image {
+    width: 407px;
+        height: 307px;
+        top: 135px;
+        left: 182px;
+        gap: 0px;
+        opacity: 0px;
+        margin-right: 20px;
+}
+.about-description {
+    font-family: Roboto Mono;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 23.74px;
+        text-align: left;
+        width: 590px;
+            height: 288px;
+            top: 164px;
+            left: 720px;
+            gap: 0px;
+            opacity: 0px;
+            margin: 10px;
+            padding-top: 50px;
+}
+.about-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.about-container{
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+}
