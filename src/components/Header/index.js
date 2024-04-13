@@ -8,9 +8,7 @@ const Header = () => (
         </div>
         <ul className='nav-items-list'>
             <li className='link-item'>
-                <Link to="/">
                 <button className='button'>JOIN US</button>
-                </Link>
             </li>
             <li className='link-item'>
                 <Link to="/classes">
