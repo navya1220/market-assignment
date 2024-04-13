@@ -62,7 +62,7 @@ const CourseCard = () => {
         ))}
         </ul>
         </div>
-        <div className='course-container'>
+        <div className='review-container'>
             <h1 className='top-student-title'>Reviews</h1>
         <ul className='coursecard-list'>
         {reviewsList.map(eachProfile => (
