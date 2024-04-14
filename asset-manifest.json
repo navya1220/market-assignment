@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/market-assignment/static/css/main.fd82d8d3.css",
-    "main.js": "/market-assignment/static/js/main.93b2ad4f.js",
+    "main.css": "/market-assignment/static/css/main.6f167b6c.css",
+    "main.js": "/market-assignment/static/js/main.389a1749.js",
     "static/js/453.d4993059.chunk.js": "/market-assignment/static/js/453.d4993059.chunk.js",
     "index.html": "/market-assignment/index.html",
-    "main.fd82d8d3.css.map": "/market-assignment/static/css/main.fd82d8d3.css.map",
-    "main.93b2ad4f.js.map": "/market-assignment/static/js/main.93b2ad4f.js.map",
+    "main.6f167b6c.css.map": "/market-assignment/static/css/main.6f167b6c.css.map",
+    "main.389a1749.js.map": "/market-assignment/static/js/main.389a1749.js.map",
     "453.d4993059.chunk.js.map": "/market-assignment/static/js/453.d4993059.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd82d8d3.css",
-    "static/js/main.93b2ad4f.js"
+    "static/css/main.6f167b6c.css",
+    "static/js/main.389a1749.js"
   ]
 }
