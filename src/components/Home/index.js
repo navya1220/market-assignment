@@ -1,7 +1,7 @@
 import CourseCard from "../CourseCard"
 import './index.css'
 const Home = () => (
-    <div>
+    <div className="home-container">
         <div className='body-card'>
             <img 
                 className='image'
